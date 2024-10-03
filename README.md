@@ -10,6 +10,6 @@ I'm a university student from Canada currently studying Computer Science. Get to
 
 #### Learning:
 
-I'm always learning and keep myself up to date with new technologies. Currently, I'm learning: AI/ML, as well as C++.
+I'm always learning and keep myself up to date with new technologies. Currently, I'm learning: Angular, Spring Boot.
 
 Feel free to contact me through my email, I'm always up for a chat! (=    | alilezzeik1@gmail.com
